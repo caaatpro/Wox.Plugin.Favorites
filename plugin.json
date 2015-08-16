@@ -1,0 +1,11 @@
+{
+    "ID":"A2D55C3B084D415DB66FE0C79D6C5A6E",
+    "ActionKeyword":"f",
+    "Name":"Favorites",
+    "Description":"",
+    "Author":"CaaatPro",
+    "Version":"1.0",
+    "Language":"csharp",
+    "Website":"",
+    "ExecuteFileName":"Wox.Plugin.Favorites.dll"
+}
